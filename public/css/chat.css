@@ -1,4 +1,6 @@
 .chat-list {
+    background-position: center center;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SmashBall.svg/1200px-SmashBall.svg.png");
     overflow-y: scroll;
     -webkit-overflow-scrolling: touch;
     height: 600px !important;
